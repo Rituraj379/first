@@ -5,7 +5,7 @@ Alternate day lectures (at 8PM)
 Duration - 4.5 months
 Each Class duration : 1.5 hour-2hour (alternate days)
 Access to the course is for 2 years
-Complete Frontend Development with HTML, CSS, Javascript & ReactJs 
+Complete Frontend Development with HTML, CSS, Javascript  
 Complete Backend Development (NodeJs, ExpressJs)
 Complete Database -( SQL & MongoDB)
 Complete MERN Stack (MongoDB, Express, React, Node)
